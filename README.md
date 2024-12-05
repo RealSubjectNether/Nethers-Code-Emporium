@@ -1,3 +1,3 @@
-# hello-world1
-This repository is for practicing the GitHub Flow.
-Prepare to see more repos here soon
+# hello-world
+Welcome to my new website, where I hope to host my code.
+I hope you enjoy
